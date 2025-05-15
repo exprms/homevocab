@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Czech Vocabulary</title>
+<!-- Google Fonts for nicer typography -->
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+<style>
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+    padding: 20px;
+  }
+
+  header {
+    text-align: center;
+    padding-bottom: 20px;
+  }
+
+  h1 {
+    font-size: 2em;
+    color: #2c3e50;
+  }
+
+  .vocab {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    padding: 15px;
+    margin-bottom: 20px;
+    transition: box-shadow 0.3s ease;
+  }
+
+  .vocab:hover {
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+  }
+
+  .word {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #2980b9;
+    margin-bottom: 8px;
+  }
+
+  .definition {
+    font-size: 1.1em;
+    margin-bottom: 8px;
+  }
+
+  .example {
+    font-style: italic;
+    background-color: #eef2f3;
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 8px;
+  }
+
+  @media (max-width: 600px) {
+    body { padding: 10px; }
+    h1 { font-size: 1.5em; }
+    .word { font-size: 1.2em; }
+    .definition { font-size: 1em; }
+    .example { font-size: 0.95em; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Czech Vocabulary</h1>
+</header>
+
+{% for item in vocabulary %}
+<div class="vocab">
+  <div class="word">{{ item.word }}</div>
+  <div class="definition">{{ item.definition }}</div>
+  <div class="example">{{ item.example }}</div>
+</div>
+{% endfor %}
+
+</body>
+</html>
+
