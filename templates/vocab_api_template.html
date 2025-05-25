@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>{word}</title>
+<style>
+  body { font-family: Arial, sans-serif; margin: 20px; background: #f0f0f0; }
+  .container { max-width: 900px; margin: auto; background: #fff; padding: 20px; border-radius: 8px; }
+  h1 { margin-top: 0; text-align: center; color: #333; }
+  h2 { margin-top: 30px; border-bottom: 2px solid #ccc; padding-bottom: 5px; }
+  table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+  th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+  th { background-color: #eee; }
+  .info { margin-top: 10px; }
+  .tags-notes { display: flex; justify-content: space-between; margin-top: 10px; }
+  .tags, .notes { width: 48%; background: #fafafa; padding: 10px; border-radius: 4px; }
+  .section { margin-top: 30px; }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>{word}</h1>
+  <h2>Translation: {translation}</h2>
+  
+  <div class="tags-notes">
+    <div class="tags"><strong>Tags:</strong> {tags}</div>
+    <div class="notes"><strong>Notes:</strong> {notes}</div>
+  </div>
+  
+  <div class="section">
+    <h2>Cases</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Case</th>
+          <th>Singular</th>
+          <th>Plural</th>
+        </tr>
+      </thead>
+      <tbody>
+        {cases_rows}
+      </tbody>
+    </table>
+  </div>
+  
+  <div class="section">
+    <h2>Examples</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Language 1</th>
+          <th>Language 2</th>
+        </tr>
+      </thead>
+      <tbody>
+        {examples_rows}
+      </tbody>
+    </table>
+  </div>
+</div>
+</body>
+</html>

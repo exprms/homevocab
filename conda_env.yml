@@ -2,7 +2,7 @@
 # using this app for playing around with docker container
 # and then for testing with pytest
 # and gitlab CI/CD in a further step
-
+# conda env update --file environment.yml --prune
 
 name: homevocab 
 channels:
@@ -15,3 +15,5 @@ dependencies:
   - unidecode
   - qrcode
   - python-dotenv
+  - fastapi
+  - uvicorn-standard

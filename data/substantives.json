@@ -1,0 +1,312 @@
+[
+  {
+    "id": 379,
+    "word": "lednička",
+    "language": "czech",
+    "translation": "Kühlschrank",
+    "type": "noun",
+    "notes": "...eh klar. *Der* Kühlschrank",
+    "tags": ["Haushalt", "Alltag"],
+    "gender": "f",
+    "grammar": {
+      "nominative": ["lednička","ledničky"],
+      "genitive": ["",""],
+      "dative": ["",""],
+      "accusative": ["ledničku","ledničky"],
+      "vocative": ["",""],
+      "locative": ["ledničce",""],
+      "instrumental": ["",""]
+    },
+    "examples": {
+        "language_1":[
+            "To je moje **lednička**.", 
+            "Máme malou ledničku.", 
+            "Máslo leží v ledničce."
+        ],
+        "language_2":[
+            "Das ist mein Kühlschrank.",
+            "Wir haben einen kleinen Kühlschrank",
+            "Die Butter liegt im Kühlschrank."
+        ]
+    }
+  },
+  {
+    "id": 1,
+    "word": "muž",
+    "language": "czech",
+    "translation": "Mann",
+    "type": "noun",
+    "notes": "common masculine noun",
+    "tags": ["Leben", "Menschen"],
+    "gender": "m",
+    "grammar": {
+      "nominative": ["muž", "muži"],
+      "genitive": ["muže", "mužů"],
+      "dative": ["muži", "mužům"],
+      "accusative": ["muže", "muže"],
+      "vocative": ["muži", "muži"],
+      "locative": ["muži", "mužích"],
+      "instrumental": ["mužem", "muži"]
+    },
+    "examples": {
+      "language_1": [
+        "Muž šel do obchodu.",
+        "Vidím vysokého muže.",
+        "Muž je můj přítel."
+      ],
+      "language_2": [
+        "Der Mann ging zum Geschäft.",
+        "Ich sehe einen großen Mann.",
+        "Der Mann ist mein Freund."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "word": "pán",
+    "language": "czech",
+    "translation": "Herr",
+    "type": "noun",
+    "notes": "formal title or gentleman",
+    "tags": ["Leben", "Society"],
+    "gender": "m",
+    "grammar": {
+      "nominative": ["pán", "pánové"],
+      "genitive": ["pána", "pánů"],
+      "dative": ["pánovi", "pánům"],
+      "accusative": ["pána", "pány"],
+      "vocative": ["páne", "páni"],
+      "locative": ["pánovi", "pánech"],
+      "instrumental": ["pánem", "pány"]
+    },
+    "examples": {
+      "language_1": [
+        "Ten pán je učitel.",
+        "Hovoří s pánem v hotelu.",
+        "Pán je velmi zdvořilý."
+      ],
+      "language_2": [
+        "Der Herr ist Lehrer.",
+        "Er spricht mit dem Herrn im Hotel.",
+        "Der Herr ist sehr höflich."
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "word": "hrad",
+    "language": "czech",
+    "translation": "Schloss",
+    "type": "noun",
+    "notes": "castle, historic building",
+    "tags": ["Historie", "Architektura"],
+    "gender": "m",
+    "grammar": {
+      "nominative": ["hrad", "hrady"],
+      "genitive": ["hradu", "hradů"],
+      "dative": ["hradu", "hradům"],
+      "accusative": ["hrad", "hrady"],
+      "vocative": ["hrade", "hrady"],
+      "locative": ["hradu", "hradech"],
+      "instrumental": ["hradem", "hrady"]
+    },
+    "examples": {
+      "language_1": [
+        "Navštívili jsme starý hrad.",
+        "Hrad stojí na kopci.",
+        "Prohlídka hradu byla úžasná."
+      ],
+      "language_2": [
+        "Wir haben die alte Burg besucht.",
+        "Die Burg steht auf einem Hügel.",
+        "Die Führung durch die Burg war großartig."
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "word": "pokoj",
+    "language": "czech",
+    "translation": "Zimmer",
+    "type": "noun",
+    "notes": "...",
+    "tags": ["bydlení", "domov"],
+    "gender": "m",
+    "grammar": {
+      "nominative": ["pokoj", "pokoje"],
+      "genitive": ["pokoje", "pokojů"],
+      "dative": ["pokoji", "pokojům"],
+      "accusative": ["pokoj", "pokoje"],
+      "vocative": ["pokoji", "pokoje"],
+      "locative": ["pokoji", "pokojích"],
+      "instrumental": ["pokojem", "pokoji"]
+    },
+    "examples": {
+      "language_1": [
+        "V pokoji je postel.",
+        "Uklízíme pokoj každý den.",
+        "Pokoj je velký a světlý."
+      ],
+      "language_2": [
+        "Im Zimmer ist ein Bett.",
+        "Wir reinigen das Zimmer jeden Tag.",
+        "Das Zimmer ist groß und hell."
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "word": "žena",
+    "language": "czech",
+    "translation": "Frau / woman",
+    "type": "noun",
+    "notes": "...",
+    "tags": ["láska", "společnost"],
+    "gender": "f",
+    "grammar": {
+      "nominative": ["žena", "ženy"],
+      "genitive": ["ženy", "žen"],
+      "dative": [" ženě", "ženám"],
+      "accusative": ["ženu", "ženy"],
+      "vocative": ["Ženo", "ženy"],
+      "locative": ["ženě", "ženách"],
+      "instrumental": ["ženou", "ženami"]
+    },
+    "examples": {
+      "language_1": [
+        "Ta žena je učitelka.",
+        "Vidím starou ženu.",
+        "Žena vaří večeři."
+      ],
+      "language_2": [
+        "Diese Frau ist Lehrerin.",
+        "Ich sehe eine alte Frau.",
+        "Die Frau kocht Abendessen."
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "word": "židle",
+    "language": "czech",
+    "translation": "Stuhl",
+    "type": "noun",
+    "notes": "...",
+    "tags": ["nábytek", "interiér"],
+    "gender": "f",
+    "grammar": {
+      "nominative": ["židle", "židle"],
+      "genitive": ["židle", "židlí"],
+      "dative": ["židli", "židlím"],
+      "accusative": ["židli", "židle"],
+      "vocative": ["židle", "židle"],
+      "locative": ["židli", "židlích"],
+      "instrumental": ["židlí", "židli"]
+    },
+    "examples": {
+      "language_1": [
+        "Sedím na židli.",
+        "V místnosti jsou tři židle.",
+        "Židle je pohodlná."
+      ],
+      "language_2": [
+        "Ich sitze auf dem Stuhl.",
+        "Im Raum gibt es drei Stühle.",
+        "Der Stuhl ist bequem."
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "word": "město",
+    "language": "czech",
+    "translation": "Stadt",
+    "type": "noun",
+    "notes": "neuter noun",
+    "tags": ["místo", "urbanistika"],
+    "gender": "n",
+    "grammar": {
+      "nominative": ["město", "města"],
+      "genitive": ["města", "měst"],
+      "dative": ["městu", "městům"],
+      "accusative": ["město", "města"],
+      "vocative": ["město", "města"],
+      "locative": ["městě", "městech"],
+      "instrumental": ["městem", "městy"]
+    },
+    "examples": {
+      "language_1": [
+        "Město je krásné.",
+        "Žiji ve velkém městě.",
+        "Město má dlouhou historii."
+      ],
+      "language_2": [
+        "Die Stadt ist schön.",
+        "Ich lebe in einer großen Stadt.",
+        "Die Stadt hat eine lange Geschichte."
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "word": "moře",
+    "language": "czech",
+    "translation": "Meer",
+    "type": "noun",
+    "notes": "neuter noun",
+    "tags": ["příroda", "geografie"],
+    "gender": "n",
+    "grammar": {
+      "nominative": ["moře", "mohla"],
+      "genitive": ["moře", "moří"],
+      "dative": ["moři", "mořím"],
+      "accusative": ["moře", "mohla"],
+      "vocative": ["moře", "mohla"],
+      "locative": ["moři", "mořích"],
+      "instrumental": ["mořem", "moři"]
+    },
+    "examples": {
+      "language_1": [
+        "Moře je klidné.",
+        "Plavali jsme v moři.",
+        "Na dovolené jsme viděli krásné moře."
+      ],
+      "language_2": [
+        "Das Meer ist ruhig.",
+        "Wir schwammen im Meer.",
+        "Im Urlaub sahen wir das schöne Meer."
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "word": "nádraží",
+    "language": "czech",
+    "translation": "Bahnhof",
+    "type": "noun",
+    "notes": "neuter noun",
+    "tags": ["doprava", "city"],
+    "gender": "n",
+    "grammar": {
+      "nominative": ["nádraží", "nádraží"],
+      "genitive": ["nádraží", "nádraží"],
+      "dative": ["nádraží", "nádraží"],
+      "accusative": ["nádraží", "nádraží"],
+      "vocative": ["nádraží", "nádraží"],
+      "locative": ["nádraží", "nádraží"],
+      "instrumental": ["nádražím", "nádražím"]
+    },
+    "examples": {
+      "language_1": [
+        "Jdu na nádraží.",
+        "Nádraží je blízko centra.",
+        "Autobus přijíždí na nádraží."
+      ],
+      "language_2": [
+        "Ich gehe zum Bahnhof.",
+        "Der Bahnhof ist in der Nähe des Zentrums.",
+        "Der Bus kommt am Bahnhof an."
+      ]
+    }
+  }
+]
