@@ -1,0 +1,7 @@
+# requirements.txt
+jinja2
+unidecode
+qrcode
+python-dotenv
+fastapi
+uvicorn[standard]

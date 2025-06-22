@@ -1,3 +1,4 @@
 rendered_html/*
 .env
+.venv/*
 qrs/*
