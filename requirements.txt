@@ -4,4 +4,8 @@ unidecode
 qrcode
 python-dotenv
 fastapi
+ezodf
+pydantic
+pandas
+odfpy
 uvicorn[standard]
