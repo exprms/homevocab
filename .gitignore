@@ -2,3 +2,5 @@ rendered_html/*
 .env
 .venv/*
 qrs/*
+__pycache__
+__pycache__/*
