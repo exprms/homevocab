@@ -1,0 +1,103 @@
+id;infinitive;s1;s2;s3;p1;p2;p3
+1;být;jsem;jsi;je;jsme;jste;jsou
+2;brát;beru;bereš;bere;bereme;berete;berou
+3;čekat;čekám;čekáš;čeká;čekáme;čekáte;čekají
+4;číst;čtu;čteš;čte;čteme;čtete;čtou
+5;dívat se;dívám se;díváš se;dívá se;díváme se;díváte se;dívají se
+6;jet;jedu;jedeš;jede;jedeme;jedete;jedou
+7;jít;jdu;jdeš;jde;jdeme;jdete;jdou
+8;kupovat;kupuju;kupuješ;kupuje;kupujeme;kupujete;kupují
+9;myslet;myslím;myslíš;myslí;myslíme;myslíte;myslí
+10;mýt;miju;myješ;myje;myjeme;myjete;myjí
+11;nést;nesu;nese;nese;neseme;nesete;nesou
+12;opakovat;opakuju;opakuješ;opakuje;opakujeme;opakujete;opakují
+13;plavat;plavu;plaveš;plave;plaveme;plavete;plavou
+14;potřebovat;potřebuju;potřebuješ;potřebuje;potřebujeme;potřebujete;potřebují
+15;pracovat;pracuju;pracuješ;pracuje;pracujeme;pracujete;pracují
+16;psát;píšu;píše;píše;píšeme;píšete;píšou
+17;rozumět;rozumím;rozumíš;rozumí;rozumíme;rozumíte;rozumí
+18;spát;spím;spíš;spí;spíme;spíte;spí
+19;těšit se;těším se;těšíš se;těší se;těšíme se;těšíte se;těší se
+20;učit;učím;učíš;učí;učíme;učíte;učí
+21;učit se;učím se;učíš se;učí se;učíme se;učíte se;učí se
+22;umět;umím;umíš;umí;umíme;umíte;umí
+23;vařit;vařím;vaříš;vaří;vaříme;vaříte;vaří
+24;vědět;vím;víš;ví;víme;víte;ví
+25;vidět;vidím;vidíš;vidí;vidíme;vidíte;vidí
+26;zajímat se;zajímám se;zajímáš se;zajímá se;zajímáme se;zajímáte se;zajímají se
+27;znát;znám;znáš;zná;známe;znáte;znají
+28;žít;žiju/žiji;žiješ;žije;žijeme;žijete;žijí
+29;mít;mám;máš;má;máme;máte;mají
+30;líbit se;líbím se;líbíš se;líbí se;líbíme se;líbíte se;líbí se
+31;pít;piju/piji;piješ;pije;pijeme;pijete;pijí
+32;stát;stojím;stojíš;stojí;stojíme;stojíte;stojí
+33;sedět;sedím;sedíš;sedí;sedíme;sedíte;sedí
+34;poslouchat;poslouchám;posloucháš;poslouchá;posloucháme;posloucháte;poslouchají
+35;dokouovat;dokupuju/dokupuji;dokupuješ;dokupuje;dokupujeme;dokupujete;dokupují
+36;jíst;jím;ješ;jí;jíme;jíte;jedí
+224;telefonovat;telefonuju/telefonuji;telefonuješ;telefonuje;telefonujeme;telefonujete;telefonují
+225;uvažovat;uvažuju/uvažuji;uvažuješ;uvažuje;uvažujeme;uvažujete;uvažují
+226;přemyslet;přemýšlím;přemýšlíš;přemýšlí;přemýšlíme;přemýšlíte;přemýšlí
+227;nakupovat;nakupuju/nakupuji;nakupuješ;nakupuje;nakupujeme;nakupujete;nakupují
+228;prát si;eru si;pereš si;pere si;pereme si;perete si;perou si
+229;ptát se;ptám se;ptáš se;ptá se;ptáme se;ptáte se;ptají se
+230;půjčit si;půjčím si;půjčíš si;půjčí si;půjčíme si;půjčíte si;půjčí si
+231;vzít si;vezmu si;vezmeš si;vezme si;vezmeme si;vezmete si;vezmou si
+232;cítit se;cítím se;cítíš se;cítí se;cítíme se;cítíte se;cítí se
+233;vzít;vezmu;vezmeš;vezme;vezmeme;vezmete;vezmou
+234;cítit;cítím;cítíš;cítí;cítíme;cítíte;cítí
+235;cítit se dobře;cítím se dobře;cítíš se dobře;cítí se dobře;cítíme se dobře;cítíte se dobře;cítí se dobře
+236;bydlet;bydlím;bydlíš;bydlí;bydlíme;bydlíte;bydlí
+263;chtít;chci;chceš;chce;chceme;chcete;chtějí
+315;sledovat;sleduju;sleduješ;sleduje;sledujeme;sledujete;sledují
+316;přicházet;přicházím;přicházíš;přichází;přicházíme;přicházíte;přicházejí
+317;dát;dám;dáš;dá;dáme;dáte;dají
+318;končit;končím;končíš;končí;končíme;končíte;končí
+443;dát si;dám si;dáš si;dá si;dáme si;dáte si;dají si
+448;mít rád/ráda;mám rád/mám ráda;máš rád/máš ráda;má rád/má ráda;máme rádi;máte rádi;mají rádi
+486;vybrat;vyberu;vybereš;vybere;vybereme;vyberete;vyberou
+487;vybrat si;vyberu si;vybereš si;vybere si;vybereme si;vyberete si;vyberou si
+492;platit;platím;platíš;platí;platíme;platíte;platí
+493;zaplatit;zaplatím;zaplatíš;zaplatí;zaplatíme;zaplatíte;zaplatí
+518;zpívat;zpívám;zpíváš;zpívá;zpíváme;zpíváte;zpívají
+519;ležet;ležím;ležíš;leží;ležíme;ležíte;leží
+542;muset;musím;musíš;musí;musíme;musíte;musí
+543;smět;smím;smíš;smí;smíme;smíte;smí
+544;moct;můžu/mohu;můžeš;může;můžeme;můžete;můžou/mohou
+548;omlouvat se;omlouvám se;omlouváš se;omlouvá se;omlouváme se;omlouváte se;omlouvají se
+549;malovat;maluju/maluji;maluješ;maluje;malujeme;malujete;malují
+559;vysvětlovat;vysvětluju/vysvětluji;vysvětluješ;vysvětluje;vysvětlujeme;vysvětlujete;vysvětlují
+560;vzpomínám na;vzpomínám na;vzpomínáš na;vzpomíná na;vzpomínáme na;vzpomínáte na;vzpomínají na
+561;cestovat;cestuju/cestuji;cestuješ;cestuje;cestujeme;cestujete;cestují
+562;hrát;hraju/hraji;hraješ;hraje;hrajeme;hrajete;hrají
+563;lyžovat;lyžuju/lyžuji;lyžuješ;lyžuje;lyžujeme;lyžujete;lyžují
+564;přijedu;přijedu;přijedeš;přijede;přijedeme;přijedete;přijedou
+565;odjedu;odjedu;odjedeš;odjede;odjedeme;odjedete;odjedou
+566;přijdu;přijdu;přijdeš;přijde;přijdeme;přijdete;přijdou
+567;odejdu;odejdu;odejdeš;odejde;odejdeme;odejdete;odejdou
+568;odpočívat;odpočívám;odpočíváš;odpočívá;odpočíváme;odpočíváte;odpočívají
+569;řikat;říkám;říkáš;říká;říkáme;říkáte;říkají
+570;snídat;snídám;snídáš;snídá;snídáme;snídáte;snídají
+571;obědvat;obědvám;obědváš;obědvá;obědváme;obědváte;obědvají
+572;večeřet;večeřím;večeříš;večeří;večeříme;večeříte;večeří
+573;uklízet;uklízím;uklízíš;uklízí;uklízíme;uklízíte;uklízejí
+574;tancovat;tancuju/tancuji;tancuješ;tancuje;tancujeme;tancujete;tancují
+575;vstávat;vstávám;vstáváš;vstává;vstáváme;vstáváte;vstávají
+576;vzpomìnat si;vzpomínám si;vzpomínáš si;vzpomíná si;vzpomínáme si;vzpomínáte si;vzpomínají si
+577;odpovídat;odpovídám;odpovídáš;odpovídá;odpovídáme;odpovídáte;odpovídají
+578;vystupovat;vystupuju/vystupuji;vystupuješ;vystupuje;vystupujeme;vystupujete;vystupují
+579;obléct se;obléknu se;oblékneš se;oblékne se;oblékneme se;obléknete se;obléknou se
+581;bolet;bolím;bolíš;bolí;bolíme;bolíte;bolí
+596;cvičit;cvičím;cvičíš;cvičí;cvičíme;cvičíte;cvičí
+597;divit se;divím se;divíš se;diví se;divíme se;divíte se;diví se
+598;hádat se;hádám se;hádáš se;hádá se;hádáme se;hádáte se;hádají se
+599;ochutnat;ochutnám;ochutnáš;ochutná;ochutnáme;ochutnáte;ochutnají
+601;nechat si;nechám si;necháš si;nechá si;necháme si;necháte si;nechají si
+602;objenat;objednám;objednáš;objedná;objednáme;objednáte;objednají
+603;odcházet;odcházím;odcházíš;odchází;odcházíme;odcházíte;odcházejí
+604;přinášet;přináším;přinášíš;přináší;přinášíme;přinášíte;přinášejí
+605;sportovat;sportuju/sportuji;sportuješ;sportuje;sportujeme;sportujete;sportují
+606;věřit;věřím;věříš;věří;věříme;věříte;věří
+607;vracet se;vracím se;vracíš se;vrací se;vracíme se;vracíte se;vracejí se
+617;všímat si;všímám si;všímáš si;všímá si;všímáme si;všímáte si;všímají si
+618;účastnit se;účastním se;účastníš se;účastní se;účastníme se;účastníte se;účastní se

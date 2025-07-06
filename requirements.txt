@@ -7,5 +7,6 @@ fastapi
 ezodf
 pydantic
 pandas
+tabulate
 odfpy
 uvicorn[standard]

@@ -1,0 +1,612 @@
+id;left;right;info_left;info_right;tag_subject;tag_info;tag_src;tag_type;tag_1;tag_2;tag_3;tag_4;tag_5;_Alltag;_Einkaufen;_Essen;_Familie;_Farbe;_Haushalt;_Kalender;_Kleidung;_Land;_Monat;_Restaurant;_Tag;_Zahlen;_Küche;_Natur;_Tiere;_Sport;_notag;_misc;_Unit 1;_Unit 2;_Unit 3;_vhs;_Adjektiv;_Adverb;_Nomen;_Phrase;_Verb;_Prep;_Musik;_Technik;_Modalverb;_Mensch;_Hotel
+1;být;sein;jsem;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+2;brát;nehmen;beru;;czech;;Unit 2;Verb;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+3;čekat;warten;čekám;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+4;číst;lesen;čtu;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+5;dívat se;anschauen, beobachten;dívám se;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+6;jet;fahren;jedu;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+7;jít;gehen;jdu;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+8;kupovat;kaufen;kupuju;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+9;myslet;denken;myslím;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+10;mýt;waschen;myju;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+11;nést;tragen, bringen;nesu;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+12;opakovat;wiederholen;opakuju;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+13;plavat;schwimmen;plavu;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+14;potřebovat;brauchen;potřebuju;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+15;pracovat;arbeiten;pracuju;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+16;psát;schreiben;píšu;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+17;rozumět;verstehen;rozumím;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+18;spát;schlafen;spím;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+19;těšit se;sich freuen;těším;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+20;učit;lehren;učím;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+21;učit se;lernen;učím;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+22;umět;können (fähig);umím;;czech;;Unit 2;Verb;Modalverb;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;1;0;0
+23;vařit;kochen;vařím;;czech;;Unit 2;Verb;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+24;vědět;wissen;vím;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+25;vidět;sehen;vidím;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+26;zajímat se;interessiert sein;zajímám;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+27;znát;kennen;znám;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+28;žít;leben;žiju;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+29;mít;haben;mám;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+30;líbit se;mögen, gern machen;líbim se;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+31;pít;trinken;píju;;czech;;Unit 2;Verb;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+32;stát;stehen;stojím;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+33;sedět;sitzen;sedim;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+34;poslouchat;zuhören;-ju;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+35;dokouovat;vervollständigen;-ám;;czech;;Unit 2;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+36;jíst;essen;jím, oni jedí;;czech;;Unit 2;Verb;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+37;bíly;weiß;;;czech;;Unit 1;Adjektiv;Farbe;;;;;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+38;černý;schwarz;;;czech;;Unit 1;Adjektiv;Farbe;;;;;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+39;cizí;ausländisch;;;czech;;Unit 1;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+40;český;tschechisch;;;czech;;Unit 1;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+41;drahý;teuer;;;czech;;Unit 1;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+42;levný;billig;;;czech;;Unit 1;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+43;malý;klein;;;czech;;Unit 1;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+44;mládý;jung;;;czech;;Unit 1;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+45;moderní;modern;;;czech;;Unit 1;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+46;ošklivý;hässlich;;;czech;;Unit 1;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+47;starý;alt;;;czech;;Unit 1;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+48;hezký;schön;;;czech;;Unit 1;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+49;hodný;nett;;;czech;;Unit 1;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+50;chytrý;klug;;;czech;;Unit 1;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+51;milý;angenehm;;;czech;;Unit 1;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+52;smutný;traurig;;;czech;;Unit 1;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+53;volný;frei;;;czech;;Unit 1;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+54;zajímavý;interessant;;;czech;;Unit 1;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+55;špatný;schlecht;;;czech;;Unit 1;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+56;auto;Auto;n;;czech;n;Unit 1;Nomen;Alltag;Haushalt;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+57;banka;Bank;f;;czech;f;Unit 1;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+58;cizinec;Ausländer;m;;czech;m;Unit 1;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+59;cizinka;Ausländerin;f;;czech;f;Unit 1;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+60;divadlo;Theater;n;;czech;n;Unit 1;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+61;dům;Haus;m;;czech;m;Unit 1;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+62;holka;Mädchen;f;;czech;f;Unit 1;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+63;kluk;Bub;m;;czech;m;Unit 1;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+64;kamarád;Kumpel;m;;czech;m;Unit 1;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+65;kamarádka;Freundin (Kumpel);f;;czech;f;Unit 1;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+66;kavárna;Kaffehaus;f;;czech;f;Unit 1;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+67;kino;Kino;n;;czech;n;Unit 1;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+68;kniha;Buch;f;;czech;f;Unit 1;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+69;koberec;Teppich;m;;czech;m;Unit 1;Nomen;Alltag;Haushalt;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+70;moře;Meer;n;;czech;n;Unit 1;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+71;muž;Mann;m;;czech;m;Unit 1;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+72;nádraží;Bahnhof Station;n;;czech;n;Unit 1;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+73;náměstí;Platz (Stadt);n;;czech;n;Unit 1;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+74;park;Park;m;;czech;m;Unit 1;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+75;pero;Stift;n;;czech;n;Unit 1;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+76;pivo;Bier;n;;czech;n;Unit 1;Nomen;Essen;Alltag;;;;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+77;pokoj;Zimmer;m;;czech;m;Unit 1;Nomen;Alltag;Haushalt;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+78;pošta;Postamt;f;;czech;f;Unit 1;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+79;rádio;Radio;n;;czech;n;Unit 1;Nomen;Alltag;Haushalt;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+80;sešit;Heft;m;;czech;m;Unit 1;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+81;skřiň;Schrank;f;;czech;f;Unit 1;Nomen;Alltag;Haushalt;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+82;slovník;Wörterbuch;m;;czech;m;Unit 1;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+83;slunce;Sonne;n;;czech;n;Unit 1;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+84;student;Student;m;;czech;m;Unit 1;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+85;studentka;Studentin;f;;czech;f;Unit 1;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+86;škola;Schule;f;;czech;f;Unit 1;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+87;televize;Fernseher;f;;czech;f;Unit 1;Nomen;Alltag;Haushalt;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+88;třída;Klassenzimmer;f;;czech;f;Unit 1;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+89;učebnice;Lehrbuch/Textbuch;f;;czech;f;Unit 1;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+90;učitel;Lehrer;m;;czech;m;Unit 1;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+91;učitelka;Lehrerin;f;;czech;f;Unit 1;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+92;ulice;Strasse;f;;czech;f;Unit 1;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+93;žena;Frau;f;;czech;f;Unit 1;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+94;židle;Sessel;f;;czech;f;Unit 1;Nomen;Haushalt;Alltag;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+95;dárek;Geschenk;m;;czech;m;Unit 2;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+96;knihkupectví;Buchhandlung;n;;czech;n;Unit 2;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+97;lektor;Lektor;m;;czech;m;Unit 2;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+98;nemocnice;Spital;f;;czech;f;Unit 2;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+99;řeka;Fluss;n;;czech;n;Unit 2;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+100;seznámení;Bekanntschaft;n;;czech;n;Unit 2;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+101;univerzita;Universität;f;;czech;f;Unit 2;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+102;činel;Becken (drums);m;;czech;m;Unit 2;Nomen;Musik;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;0;1;0;0;0;0
+103;rodina;Familie;f;;czech;f;Unit 2;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+104;dopis;Brief;m;;czech;m;Unit 2;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+105;hudba;Musik;f;;czech;f;Unit 2;Nomen;Musik;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;0;1;0;0;0;0
+106;rocková hudba;Rockmusik;f;;czech;f;Unit 2;Nomen;Musik;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;0;1;0;0;0;0
+107;kytara;Gitarre;f;;czech;f;Unit 2;Nomen;Musik;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;0;1;0;0;0;0
+108;Belgie;Belgien;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+109;Česká republika;CZ;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+110;Francie;Frankreich;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+111;Itálie;Italien;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+112;Kanada;Kanada;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+113;Mad’arsko;Ungarn;n;;czech;n;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+114;Německo;Deutschland;n;;czech;n;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+115;Polsko;Polen;n;;czech;n;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+116;Rakousko;Österreich;n;;czech;n;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+117;Rusko;Russland;n;;czech;n;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+118;Řeko;Griechenland;n;;czech;n;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+119;Slovensko;Slovakei;n;;czech;n;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+120;Špenělsko;Spanien;n;;czech;n;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+121;Švèdsko;Schweden;n;;czech;n;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+122;Švýcarsko;Schweiz;n;;czech;n;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+123;Spojené státy americké;USA;;;czech;;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+124;Velká Británie;GB;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+125;Belgičan;Belgier;m;;czech;m;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+126;Belgičanka;Belgierin;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+127;Čzech;Tscheche;m;;czech;m;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+128;Češka;Tschechin;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+129;Francouz;Franzose;m;;czech;m;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+130;Francouzka;Französin;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+131;Ital;Iatliener;m;;czech;m;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+132;Italka;Italienerin;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+133;Kanad’an;Kanadier;m;;czech;m;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+134;Kanad’anka;Kanadierin;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+135;Mad’ar;Ungar;m;;czech;m;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+136;Mad’arka;Ungarin;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+137;Němec;Deutscher;m;;czech;m;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+138;Němka;Deutsche;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+139;Polák;Pole;m;;czech;m;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+140;Polka;Polin;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+141;Rakušan;Österreicher;m;;czech;m;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+142;Rakušanka;Österreicherin;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+143;Rus;Russe;m;;czech;m;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+144;Ruska;Russin;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+145;Řek;Grieche;m;;czech;m;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+146;Řekyně;Griechin;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+147;Slovák;Slovake;m;;czech;m;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+148;Slovenka;Slovakin;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+149;Španěl;Spanier;m;;czech;m;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+150;Španělka;Spanierin;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+151;Švéd;Schwede;m;;czech;m;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+152;Švédka;Schwedin;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+153;Švýcar;Schweizer;m;;czech;m;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+154;Švýcarka;Schweizerin;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+155;Američan;Amerikaner;m;;czech;m;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+156;Američanka;Amerikanerin;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+157;Angličan;Engländer;m;;czech;m;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+158;Angličanka;Engländerin;f;;czech;f;Unit 2;Nomen;Land;;;;;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+159;stůl;Tisch;m;;czech;m;Unit 1;Nomen;Haushalt;Alltag;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+160;lektorka;Lektorin;f;;czech;f;misc;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+161;měsíc;Monat;m;;czech;m;misc;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+162;košíková;Basketball;f;;czech;f;misc;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+163;narozeniny;Geburtstag (Feier);;;czech;;misc;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+164;narození;Geburtstag (Datum);n;;czech;n;misc;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+165;sluchátko;Kopfhörer;n;;czech;n;misc;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+166;špión;Spion;m;;czech;m;misc;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+167;autor;Autor;m;;czech;m;Unit 3;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+168;cukrárna;Konditorei;f;;czech;f;Unit 3;Nomen;Einkaufen;Alltag;;;;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+169;drogerie;Drogeriemarkt;f;;czech;f;Unit 3;Nomen;Einkaufen;;;;;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+170;fráze;Phrase;f;;czech;f;Unit 3;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+171;jazyk;Sprache;m;;czech;m;Unit 3;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+172;kalendář;Kalender;m;;czech;m;Unit 3;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+173;kazeta;Kassette;f;;czech;f;Unit 3;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+174;maso;Fleisch;n;;czech;n;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+175;mlékárna;Kühlregal, Milchprodukte;f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+176;ovoce a zelenina;Obst und Gemüse;;;czech;;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+177;maso a uzeniny;Fleisch und Räucherwaren;;;czech;;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+178;pečivo;Brot, Gebäck;n;;czech;n;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+179;nápoje;Getränke;m;;czech;m;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+180;nápoj;Getränk;m;;czech;m;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+181;mýdlo;Seife;n;;czech;n;Unit 3;Nomen;Einkaufen;;;;;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+182;nakupování;das Einkaufen;n;;czech;n;Unit 3;Nomen;Einkaufen;;;;;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+183;nápad;Idee;m;;czech;m;Unit 3;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+184;ovoce;Frucht, Obst;n;;czech;n;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+185;pekařství;Bäckerladen;n;;czech;n;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+186;román;Roman;m;;czech;m;Unit 3;Nomen;Einkaufen;;;;;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+187;rtěnka;Lippenstift;f;;czech;f;Unit 3;Nomen;Einkaufen;;;;;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+188;samoobsluha;Supermarkt;f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+189;uzenina;geräuchertes Gut;f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+190;zelenina;Gemüse;f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+191;zubní pasta;Zahnpasta;f;;czech;f;Unit 3;Nomen;Einkaufen;;;;;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+192;žert;Scherz;m;;czech;m;Unit 3;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+193;potrava;Lebensmittel (sg);f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+194;potraviny;Lebensmittel (pl);f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+195;vejce;Ei;n;;czech;n;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+196;šlehačka;Schlagobers;f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+197;máslo;Butter;n;;czech;n;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+198;sýr;Käse;m;;czech;m;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+199;plnotučné mléko;Vollmilch;n;;czech;n;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+200;banán;Banane;m;;czech;m;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+201;pomeranč;Orange;m;;czech;m;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+202;okurka;Gurke;f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+203;jablko;Apfel;n;;czech;n;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+204;salát;Salat;m;;czech;m;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+205;paprika;Paprika;f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+206;rajče;Tomate;n;;czech;n;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+207;citron;Zitrone;m;;czech;m;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+208;meruňka;Marille;f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+209;broskev;Pfirsich;f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+210;dost;genug;;;czech;;Unit 3;Adverb;Einkaufen;;;;;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0
+211;kapesní;taschen…;;;czech;;Unit 3;Adjektiv;Einkaufen;;;;;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+212;pařížský;pariser;;;czech;;Unit 3;Adjektiv;Einkaufen;;;;;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+213;čerstvý;frisch (adjektiv);;;czech;;Unit 3;Adjektiv;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+214;ovocný;fruchtig;;;czech;;Unit 3;Adjektiv;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+215;tavený;geschmolzen;-ina, -í;;czech;;Unit 3;Adjektiv;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+216;čerstvě;frisch (adverb);;;czech;;Unit 3;Adverb;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0
+217;žlutý;gelb;;;czech;;Unit 3;Adjektiv;Farbe;Einkaufen;;;;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+218;sladký;süss (adj.);;;czech;;Unit 3;Adjektiv;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+219;červený;rot;;;czech;;Unit 3;Adjektiv;Farbe;Einkaufen;;;;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+220;zelený;grün;;;czech;;Unit 3;Adjektiv;Farbe;Einkaufen;;;;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+221;měkký;weich;;;czech;;Unit 3;Adjektiv;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+222;italský;italienisch;;;czech;;Unit 3;Adjektiv;Einkaufen;;;;;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+223;sladce;süss (adv.);;;czech;;Unit 3;Adverb;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0
+224;telefonovat;telefonieren;-ju;;czech;;misc;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+225;uvažovat;nachdenken über jmd;-ju;;czech;;misc;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+226;přemyslet;nachdenken ü. Etw.;-ím;;czech;;misc;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+227;nakupovat;einkaufen;-uju;;czech;;Unit 3;Verb;Einkaufen;;;;;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0
+228;prát si;sich wünschen;-přeju;;czech;;Unit 3;Verb;Einkaufen;Restaurant;;;;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0
+229;ptát se;sich fragen;ptám;;czech;;misc;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+230;půjčit si;ausborgen, leihen;-ím;;czech;;misc;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+231;vzít si;nehmen (to get);vezmu;;czech;;Unit 3;Verb;Einkaufen;;;;;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0
+232;cítit se;sich fühlen;-ím;;czech;;misc;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+233;vzít;nehmen (to take);vezmu;;czech;;Unit 3;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0
+234;cítit;fühlen;-ím;;czech;;misc;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+235;cítit se dobře;sich gut fühlen;;;czech;;misc;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+236;bydlet;wohnen;-ím;;czech;;misc;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+237;tak dobře;also gut …;;;czech;;misc;Phrase;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+238;docela dobrý;ganz gut;;;czech;;misc;Phrase;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+239;brzké uzdravení;gute Besserung;;;czech;;misc;Phrase;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+240;dobro;das Gute;n;;czech;;misc;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+241;potom;dann;;;czech;;misc;;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+242;už;schon, bereits;;;czech;;misc;;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+243;už je pozdě;es ist schon spät;;;czech;;misc;Phrase;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+244;to nevadí;das macht nichts;;;czech;;misc;Phrase;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+245;otec;Vater;m;;czech;m;Unit 3;Nomen;Familie;;;;;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+246;tatínek;Papa;m;;czech;m;Unit 3;Nomen;Familie;;;;;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+247;tužka;Bleistift, Buntstift;f;;czech;f;Unit 3;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+248;papír;Papier;m;;czech;m;Unit 3;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+249;pohlednice;Postkarte;f;;czech;f;Unit 3;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+250;krém;Creme;m;;czech;m;Unit 3;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+251;šampon;Shampoo;m;;czech;m;Unit 3;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+252;parfém;Parfume;m;;czech;m;Unit 3;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+253;hřeben;Kamm;m;;czech;m;Unit 3;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+254;budova;Gebäude;f;;czech;f;Unit 3;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+255;Vánoce;Weihnachten;f;(pl);czech;f;Unit 3;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+256;obchodní dům;Kaufhaus;m;;czech;m;Unit 3;Nomen;Einkaufen;;;;;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+257;modrý;blau;;;czech;;Unit 3;Adjektiv;Farbe;;;;;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+258;hnědý;braun;;;czech;;Unit 3;Adjektiv;Farbe;;;;;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+259;růžový;rosa;;;czech;;Unit 3;Adjektiv;Farbe;;;;;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+260;zubní;dental;;adj.;czech;;Unit 3;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+261;těžký;schwierig;;;czech;;Unit 3;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+262;obchodní;geschäftlich;obchodní dům;;czech;;Unit 3;Adjektiv;Einkaufen;;;;;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+263;chtít;wollen;chci, oni chtějí;;czech;;Unit 3;Verb;Einkaufen;Restaurant;Modalverb;;;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;1;0;0
+264;Dělej, jak chceš;mach was du willst;;;czech;;misc;Phrase;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+265;nechce se mi;ich hab keinen Bock;;;czech;;misc;Phrase;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+266;chtě nechtě;wohl oder übel;;;czech;;misc;Phrase;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+267;je mi líto;I am sorry;;;czech;;misc;Phrase;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+268;Co znamená …?;Was bedeutet …;;;czech;;Unit 1;Phrase;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+269;Jak se řekne česky … ?;wie sagt man in cz ?;;;czech;;Unit 1;Phrase;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+270;Mám otázku;ich habe eine Frage;;;czech;;Unit 1;Phrase;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+271;neobávejte se;don’t worry;;;czech;;misc;Phrase;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+272;to je v pořádku;passt schon;;;czech;;misc;Phrase;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+273;miluji tě;ich liebe dich;;;czech;;misc;Phrase;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+274;dlouho jsme se neviděli;long time no see;;;czech;;misc;Phrase;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+275;Okamžik prosím;wait a minute;;;czech;;misc;Phrase;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+276;to se mi líbí;I like it;;;czech;;misc;Phrase;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+277;mléko;Milch;n;;czech;n;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+278;jogurt;Joghurt;m;;czech;m;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+279;mandarinka;Mandarine;f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+280;jahoda;Erdbeere;f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+281;kvéták;Karfiol;m;;czech;m;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+282;brambor;Erdapfel;m;;czech;m;Unit 3;Nomen;Essen;Einkaufen;Restaurant;;;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+283;cibule;Zwiebel;f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;Restaurant;;;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+284;česnek;Knoblauch;m;;czech;m;Unit 3;Nomen;Essen;Einkaufen;Restaurant;;;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+285;hovězí;Rindfleisch;n;;czech;n;Unit 3;Nomen;Essen;Einkaufen;Restaurant;;;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+286;vepřové;Schweinefleisch;n;;czech;n;Unit 3;Nomen;Essen;Einkaufen;Restaurant;;;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+287;kuře;Hendl;n;;czech;n;Unit 3;Nomen;Essen;Einkaufen;Restaurant;;;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+288;ryba;Fisch;f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;Restaurant;;;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+289;salám;Salami;m;;czech;m;Unit 3;Nomen;Essen;Einkaufen;Restaurant;;;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+290;šunka;Schinken;f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+291;párek;Würstel;m;;czech;m;Unit 3;Nomen;Essen;Einkaufen;Restaurant;;;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+292;rohlík;Kipferl;m;;czech;m;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+293;houska;Semmel;f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+294;chléb;Brot;m;;czech;m;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+295;koláč;gef. Croissant;m;;czech;m;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+296;čokoláda;Schoko;f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+297;bonbony;Zuckerl;pl.;;czech;pl.;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+298;dort;Torte;m;;czech;m;Unit 3;Nomen;Essen;Einkaufen;Restaurant;;;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+299;zákusek;Nachspeise;m;;czech;m;Unit 3;Nomen;Essen;Einkaufen;Restaurant;;;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+300;zmrzlina;Eiscreme;f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;Restaurant;;;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+301;žvýkačka;Kaugummi;f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+302;víno;Wein;n;;czech;n;Unit 3;Nomen;Essen;Einkaufen;Restaurant;;;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+303;limonáda;Limo;f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;Restaurant;;;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+304;džus;Saft;m;;czech;m;Unit 3;Nomen;Essen;Einkaufen;Restaurant;;;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+305;kola;Cola;f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;Restaurant;;;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+306;minerálka;Mineralwasser;f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;Restaurant;;;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+307;čaj;Tee;m;;czech;m;Unit 3;Nomen;Essen;Einkaufen;Restaurant;;;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+308;káva;Kaffe;f;;czech;f;Unit 3;Nomen;Essen;Einkaufen;Restaurant;;;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+309;sourozenec;Geschwister;m;;czech;m;misc;Nomen;Familie;;;;;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+310;kapr;Karpfen;m;;czech;m;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+311;těstoviny;Pasta;pl;;czech;;misc;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+312;rodiče;Eltern;pl;;czech;;misc;Nomen;Familie;;;;;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+313;časopis;Zeitschrift;m;;czech;m;Unit 3;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+314;cucr;Zucker;m;;czech;m;Unit 3;Nomen;Essen;Einkaufen;;;;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+315;sledovat;schauen (TV);-ju;;czech;;Unit 3;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0
+316;přicházet;ankommen, kommen;-im;;czech;;Unit 3;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0
+317;dát;geben;-ám;;czech;;Unit 3;Verb;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0
+318;končit;enden;-ím;;czech;;Unit 3;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0
+319;bez;ohne;;{prep};czech;;misc;Prep;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+320;do;in/nach, bis;;{prep};czech;;misc;Prep;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+321;k;zu;;{prep};czech;;misc;Prep;Restaurant;;;;notag;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+322;kvůli;wegen;;{prep};czech;;misc;Prep;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+323;na;auf/an, in, nach;;{prep};czech;;misc;Prep;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+324;o;über, von;;{prep};czech;;misc;Prep;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+325;od;von;;{prep};czech;;misc;Prep;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+326;před;vor;;{prep};czech;;misc;Prep;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+327;přes;durch, über;;{prep};czech;;misc;Prep;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+328;pro;für;;{prep};czech;;misc;Prep;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+329;proti;gegen;;{prep};czech;;misc;Prep;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+330;s;mit;;{prep};czech;;misc;Prep;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+331;u;bei;;{prep};czech;;misc;Prep;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+332;v;in, um, am;;{prep};czech;;misc;Prep;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+333;vedle;neben;;{prep};czech;;misc;Prep;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+334;z;aus;;{prep};czech;;misc;Prep;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+335;za;hinter, in, für;;{prep};czech;;misc;Prep;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+336;smetáček;Handbesen;m;;czech;m;vhs;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+337;vídeňský;wiener;;{adj.};czech;;vhs;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+338;všechno nejlepší;alles Gute (Beste);;;czech;;vhs;Phrase;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0
+339;děkuju za …;ich danke für …;;;czech;;vhs;Phrase;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0
+340;zítra;morgen;;;czech;;vhs;Adverb;Tag;Kalender;;;;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0
+341;dnes;heute;;;czech;;vhs;Adverb;Tag;Kalender;;;;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0
+342;pozítří;übermorgen;;;czech;;vhs;Adverb;Tag;Kalender;;;;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0
+343;dopoledne;Vormittag;;;czech;;vhs;Adverb;Tag;Kalender;;;;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0
+344;odpoledne;Nachmittag;;;czech;;vhs;Adverb;Tag;Kalender;;;;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0
+345;poledne;Mittag;;;czech;;vhs;Adverb;Tag;Kalender;;;;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0
+346;pondělí;Montag;;;czech;;vhs;Nomen;Tag;Kalender;;;;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+347;úterý;Dienstag;;;czech;;vhs;Nomen;Tag;Kalender;;;;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+348;středa;Mittwoch;;;czech;;vhs;Nomen;Tag;Kalender;;;;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+349;čtvrtek;Donnerstag;;;czech;;vhs;Nomen;Tag;Kalender;;;;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+350;pátek;Freitag;;;czech;;vhs;Nomen;Tag;Kalender;;;;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+351;sobota;Samstag;;;czech;;vhs;Nomen;Tag;Kalender;;;;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+352;neděle;Sonntag;;;czech;;vhs;Nomen;Tag;Kalender;;;;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+353;sestra;Schwester;f;;czech;f;vhs;Nomen;Familie;;;;;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+354;bratr;Bruder;m;;czech;m;vhs;Nomen;Familie;;;;;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+355;matka;Mutter;f;;czech;f;vhs;Nomen;Familie;;;;;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+356;maminka;Mama;f;;czech;f;vhs;Nomen;Familie;;;;;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+357;tychně;Schwiegermutter;f;;czech;f;vhs;Nomen;Familie;;;;;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+358;bratranec;Cousin;m;;czech;m;vhs;Nomen;Familie;;;;;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+359;sestřinec;Cousine;f;;czech;f;vhs;Nomen;Familie;;;;;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+360;babička;Oma;f;;czech;f;vhs;Nomen;Familie;;;;;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+361;děda;Opa;m;;czech;m;vhs;Nomen;Familie;;;;;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+362;syn;Sohn;m;;czech;m;vhs;Nomen;Familie;;;;;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+363;dcera;Tochter;f;;czech;f;vhs;Nomen;Familie;;;;;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+364;neteř;Nichte;f;;czech;f;vhs;Nomen;Familie;;;;;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+365;synovec;Neffe;m;;czech;m;vhs;Nomen;Familie;;;;;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+366;šedý;grau;m;;czech;m;vhs;Adjektiv;Farbe;;;;;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+367;leden;Jänner;m;;czech;m;misc;Nomen;Monat;Kalender;;;;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+368;únor;Februar;m;;czech;m;misc;Nomen;Monat;Kalender;;;;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+369;březen;März;m;;czech;m;misc;Nomen;Monat;Kalender;;;;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+370;duben;April;m;;czech;m;misc;Nomen;Monat;Kalender;;;;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+371;květen;Mai;m;;czech;m;misc;Nomen;Monat;Kalender;;;;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+372;červen;Juni;m;;czech;m;misc;Nomen;Monat;Kalender;;;;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+373;červenec;Juli;m;;czech;m;misc;Nomen;Monat;Kalender;;;;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+374;srpen;August;m;;czech;m;misc;Nomen;Monat;Kalender;;;;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+375;září;September;m;;czech;m;misc;Nomen;Monat;Kalender;;;;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+376;říjen;Oktober;m;;czech;m;misc;Nomen;Monat;Kalender;;;;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+377;listopad;Novemer;m;;czech;m;misc;Nomen;Monat;Kalender;;;;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+378;prosinec;Dezember;m;;czech;m;misc;Nomen;Monat;Kalender;;;;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+379;lednička;Kühlschrank;f;;czech;f;misc;Nomen;Haushalt;Alltag;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+380;dveře;Tür;f;;czech;f;misc;Nomen;Haushalt;Alltag;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+381;sklep;Keller;m;;czech;m;misc;Nomen;Haushalt;Alltag;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+382;kuchyně;Küche;f;;czech;f;misc;Nomen;Haushalt;Alltag;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+383;koupelna;Badezimmer;f;;czech;f;misc;Nomen;Haushalt;Alltag;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+384;záchod;WC;m;;czech;m;misc;Nomen;Haushalt;Alltag;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+385;schodiště;Stiegen/Treppen;n;;czech;n;misc;Nomen;Haushalt;Alltag;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+386;terasa;Terrasse;f;;czech;f;misc;Nomen;Haushalt;Alltag;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+387;zahrada;Garten;f;;czech;f;misc;Nomen;Haushalt;Alltag;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+388;počítač;Computer;m;;czech;m;misc;Nomen;Haushalt;Alltag;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+389;hrnec;Topf;m;;czech;m;misc;Nomen;Haushalt;Alltag;Küche;;;1;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+390;nůž;Messer;m;;czech;m;misc;Nomen;Haushalt;Alltag;Küche;;;1;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+391;vidlička;Gabel;f;;czech;f;misc;Nomen;Haushalt;Alltag;Küche;;;1;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+392;lžíce;Löffel;f;;czech;f;misc;Nomen;Haushalt;Alltag;Küche;;;1;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+393;talíř;Teller;m;;czech;m;misc;Nomen;Haushalt;Alltag;Küche;;;1;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+394;sklenice;Trinkglas;f;;czech;f;misc;Nomen;Haushalt;Alltag;Küche;;;1;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+395;závěs;Vorhang;m;;czech;m;misc;Nomen;Haushalt;Alltag;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+396;plakát;Poster;m;;czech;m;misc;Nomen;Haushalt;Alltag;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+397;bota;Schuh;f;;czech;f;misc;Nomen;Kleidung;Alltag;;;;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+398;bunda;Jacke;f;;czech;f;misc;Nomen;Kleidung;Alltag;;;;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+399;kalhoty;Hose;f;;czech;f;misc;Nomen;Kleidung;Alltag;;;;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+400;pulovr;Pullover;m;;czech;m;misc;Nomen;Kleidung;Alltag;;;;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+401;košile;Hemd;f;;czech;f;misc;Nomen;Kleidung;Alltag;;;;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+402;tričko;T-Shirt;n;;czech;n;misc;Nomen;Kleidung;Alltag;;;;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+403;rostlina;Pflanze;f;;czech;f;misc;Nomen;Haushalt;Alltag;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+404;gauč;Couch;m;;czech;m;misc;Nomen;Haushalt;Alltag;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+405;zrcadlo;Spiegel;n;;czech;n;misc;Nomen;Haushalt;Alltag;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+406;sprcha;Dusche;f;;czech;f;misc;Nomen;Haushalt;Alltag;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+407;pračka;Waschmaschine;f;;czech;f;misc;Nomen;Haushalt;Alltag;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+408;myčka nádobí;Geschirrspüler;f;;czech;f;misc;Nomen;Haushalt;Alltag;Küche;;;1;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+409;sporák;Herd;m;;czech;m;misc;Nomen;Haushalt;Alltag;Küche;;;1;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+410;sušička;Trockner;f;;czech;f;misc;Nomen;Haushalt;Alltag;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+411;dušený;gedünstet;;;czech;;vhs;Adjektiv;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+412;guláš;Gulasch;;;czech;;vhs;Nomen;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+413;gulášový;Gulasch-…;;{als adj.};czech;;vhs;Adjektiv;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+414;hotový;fertig, vorbereitet;;;czech;;vhs;Adjektiv;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+415;houskové knedlíky;Semmelknödel;;{pl.};czech;;vhs;Nomen;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+416;hověcy maso;Rindfleisch;;;czech;;vhs;Nomen;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+417;hranolky;Pommes;;;czech;;vhs;;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+418;jíedlní listek;Speisekarte;;;czech;;vhs;Nomen;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+419;jídlo;Essen;n;;czech;;vhs;Nomen;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+420;karamel;Karamell;;;czech;;vhs;;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+421;knedlík;Knödel;m;;czech;m;vhs;Nomen;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+422;neperlivý;ohne Kohlensäure;;;czech;;vhs;Adjektiv;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+423;perlivý;mit Kohlensäure;;;czech;;vhs;Adjektiv;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+424;omáčka;Soße;;;czech;;vhs;Nomen;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+425;pečený;gebacken;;;czech;;vhs;Adjektiv;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+426;smažený;paniert;;;czech;;vhs;Adjektiv;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+427;polévka;Suppe;;;czech;;vhs;Nomen;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+428;rajčatovy …;Tomaten-….;;{als adj.};czech;;vhs;Adjektiv;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+429;rýže;Reis;f;;czech;f;vhs;Nomen;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+430;řízek;Schnitzel;m;;czech;m;vhs;Nomen;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+431;světlý;hell;;;czech;;vhs;Adjektiv;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+432;světlé pivo;helles Bier;;;czech;;vhs;Nomen;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+433;tatárský;Tatar;;;czech;;vhs;Adjektiv;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+434;vanilkový;Vanille- …;;{als adj.};czech;;vhs;Adjektiv;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+435;vařený;gekocht;;;czech;;vhs;Adjektiv;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+436;vepřové maso;Schweinefleisch;n;;czech;n;vhs;Nomen;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+437;kvalitní;von hoer Qualität;;;czech;;vhs;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+438;perlívá mineralní voda;Mieralwasser mit KS;f;;czech;f;vhs;Nomen;Restaurant;Essen;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+439;dobrou chut’;Guten Appetit;;;czech;;vhs;Phrase;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0
+440;Zaplatím;Zahlen! (ich werde zahlen);;im Restau.;czech;;vhs;Phrase;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0
+441;Zvlášt’ nebo dohromady;Getrennt od. Zusammen;;;czech;;vhs;Phrase;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0
+442;dvakrát;zweimal;;;czech;;vhs;;Restaurant;Zahlen;;;;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+443;dát si;sich geben (“nehmen”);dám si;;czech;;vhs;Verb;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+444;dohromady;zusammen;;;czech;;vhs;Adjektiv;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+445;číšník;Kellner;m;;czech;m;vhs;Nomen;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+446;host;Gast;m;;czech;m;vhs;Nomen;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+447;jednou;einmal;;;czech;;vhs;;Restaurant;Zahlen;;;;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+448;mít rád/ráda;mögen;mám rád;;czech;;vhs;Verb;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+449;no;also;;;czech;;vhs;Prep;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0
+450;třikrat;dreimal;;;czech;;vhs;;Restaurant;Zahlen;;;;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+451;takže;sodass, so … dass;;;czech;;vhs;Prep;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0
+452;všechno;alles;;;czech;;vhs;;Restaurant;Zahlen;;;;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+453;zvlášt’;getrennt;;;czech;;vhs;Adjektiv;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+454;Je to všechno?;Ist das alles?;;;czech;;vhs;Phrase;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0
+455;často;oft;;;czech;;vhs;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+456;číšnice;Kellnerin;f;;czech;f;vhs;Nomen;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+457;okno;Fenster;n;;czech;n;Unit 1;Nomen;Haushalt;Alltag;;;;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+458;myčka;Spülmaschine;f;;czech;f;misc;Nomen;Haushalt;Alltag;Küche;;;1;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+459;poklice;Deckel (Topf);f;;czech;f;misc;Nomen;Haushalt;Alltag;Küche;;;1;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+460;pánev;Pfanne;f;;czech;f;misc;Nomen;Haushalt;Alltag;Küche;;;1;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+461;rychlovarná konvice;Wasserkocher;f;;czech;f;misc;Nomen;Haushalt;Alltag;Küche;;;1;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+462;mísa;Schüssel;f;;czech;f;misc;Nomen;Haushalt;Alltag;Küche;;;1;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+463;kelímek;Becher;m;;czech;m;misc;Nomen;Haushalt;Alltag;Küche;;;1;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+464;konvice;Kanne, Kessel;f;;czech;f;misc;Nomen;Haushalt;Alltag;Küche;;;1;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+465;konvice na mléko;Milchkanne;f;;czech;f;misc;Nomen;Haushalt;Alltag;Küche;;;1;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+466;nádobí;Geschirr;n;;czech;n;misc;Nomen;Haushalt;Alltag;Küche;;;1;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+467;příbor;Besteck;m;;czech;m;misc;Nomen;Haushalt;Alltag;Küche;;;1;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+468;zdravý;gesund;;;czech;;vhs;Adjektiv;;Alltag;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+469;nemocný;krank;;;czech;;vhs;Adjektiv;;Alltag;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+470;hlavni jídlo;Hauptspeise;n;;czech;n;vhs;Nomen;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+471;bylina;Kraut (Heilpflanze);f;;czech;f;vhs;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+472;bylinkový čaj;Kräutertee;m;;czech;m;vhs;Nomen;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+473;denní nabidka;Tagesangebot;f;;czech;f;vhs;Nomen;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+474;ranní kava;Morgenkaffee;f;;czech;f;vhs;Nomen;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+475;hořký;bitter;;;czech;;vhs;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+476;česnekova polevka;knoblauch suppe;;;czech;;vhs;Nomen;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+477;mák;Mohn;m;;czech;m;vhs;Nomen;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+478;napřiklad (např.);zum Beispiel;m;;czech;m;vhs;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+479;pravda;die Wahrheit;f;;czech;f;vhs;Nomen;;Alltag;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+480;řezaný;geschnitten;;;czech;;vhs;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+481;řezané pivo;Schnittbier;;;czech;;vhs;Nomen;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+482;suchý;trocken;;;czech;;vhs;Adjektiv;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+483;vegetariánský;vegeatarisch;;;czech;;vhs;Adjektiv;Restaurant;Alltag;;;;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+484;vegetarián;Vegetarier;m;;czech;m;vhs;Nomen;Restaurant;Alltag;;;;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+485;vegetariánka;Vegetarierin;f;;czech;f;vhs;Nomen;Restaurant;Alltag;;;;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+486;vybrat;wählen, auswählen;vyberu;;czech;;vhs;Verb;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+487;vybrat si;sich wählen;vyberu si;;czech;;vhs;Verb;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+488;kečup;Ketchup;m;;czech;m;misc;Nomen;Essen;Restaurant;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+489;kofola;Kolaähnliches Getränk;f;;czech;f;misc;Nomen;;Restaurant;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+490;pepř;Pfeffer;m;;czech;m;misc;Nomen;Essen;Restaurant;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+491;sůl;Salz;f;;czech;f;misc;Nomen;Essen;Restaurant;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+492;platit;zahlen;{-ím};;czech;;misc;Verb;;Restaurant;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+493;zaplatit;bezahlen;{-ím};;czech;;misc;Verb;;Restaurant;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+494;piškot;Biskotte;m;;czech;;misc;Nomen;Essen;Restaurant;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+495;pití;das Trinken;n;;czech;n;misc;Nomen;;Restaurant;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+496;k pití;zum Trinken;;;czech;;misc;Nomen;;Restaurant;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+497;smetana;Sahne;f;;czech;f;misc;Nomen;Essen;Restaurant;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+498;sušenka;Keks;f;;czech;f;misc;Nomen;Essen;Restaurant;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+499;ústřice;Auster;f;;czech;f;misc;Nomen;Essen;Restaurant;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+500;žampion;Champignon;m;;czech;m;misc;Nomen;Essen;Restaurant;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+501;celozrnný;Vollkorn….;;;czech;;misc;Adjektiv;Essen;Restaurant;;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+502;strýc;Onkel;m;;czech;m;misc;Nomen;Familie;;;;;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+503;teta;Tante;f;;czech;f;misc;Nomen;Familie;;;;;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+504;hospoda;Kneipe;f;;czech;f;vhs;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+505;kancelář;Büro;f;;czech;f;vhs;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+506;vesnice;Dorf;f;;czech;f;vhs;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+507;zámek;Schloss (Türschloss);m;;czech;m;vhs;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+508;stanice;Haltestelle, Station;f;;czech;f;vhs;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+509;příroda;Natur;f;;czech;f;vhs;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+510;směnárna;Wechselstube;f;;czech;f;vhs;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+511;masáž;Massage;f;;czech;f;vhs;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+512;les;Wald;m;;czech;m;vhs;Nomen;Alltag;Natur;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+513;knihovna;Bücherschrank;m;;czech;m;vhs;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+514;parkoviště;Parkplatz;n;;czech;n;vhs;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+515;hokej;Eishockey;m;;czech;m;vhs;Nomen;Alltag;Sport;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+516;výstava;Ausstellung;f;;czech;f;vhs;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+517;vlak;Zug;m;;czech;m;vhs;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+518;zpívat;singen;-ám;;czech;;vhs;Verb;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+519;ležet;liegen;-lžu;;czech;;vhs;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+520;lavička;Parkbank;f;;czech;f;vhs;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+521;sám;selbst, allein;;;czech;;vhs;Adverb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0
+522;podlaha;Fussboden;f;;czech;f;vhs;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+531;šprt;Streber; m   ;;czech;m;vhs;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+532;šprtka;Streberin; f   ;;czech;f;vhs;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+533;váza;Vase; f   ;;czech;f;vhs;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+534;květina;Blume; f   ;;czech;f;vhs;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+535;včela;Biene; f   ;;czech;f;vhs;Nomen;Tiere;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+536;trh;Markt; m   ;;czech;m;vhs;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+537;voják;Soldat;m;;czech;m;vhs;Nomen;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+538;zima;Winter;f;;czech;f;misc;Nomen;Kalender;;;;;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+539;jaro;Frühling;n;;czech;n;misc;Nomen;Kalender;;;;;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+540;podzim;Herbst;m;;czech;m;misc;Nomen;Kalender;;;;;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+541;léto;Sommer;n;;czech;n;misc;Nomen;Kalender;;;;;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+542;muset;müssen;-ím;;czech;;misc;Verb;Modalverb;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0
+543;smět;dürfen;-ím;;czech;;misc;Verb;Modalverb;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0
+544;moct;können (wie “dürfen”);můžu;;czech;;misc;Verb;Modalverb;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0
+545;brzy;bald, früh;;;czech;;misc;Adverb;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+546;účet;Rechnung (Lokal);m;;czech;m;misc;Nomen;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+547;ruka;Hand;f;;czech;f;vhs;Nomen;Alltag;Mensch;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0
+548;omlouvat se;sich entschuldigen;-ju;;czech;;vhs;Verb;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+549;malovat;malen, ausmalen;-ju;;czech;;vhs;Verb;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+550;klavír;Klavier;m;;czech;m;vhs;Nomen;;Musik;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;1;0;0;0;0
+551;pozdní;spät;;adj;czech;;vhs;Adjektiv;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+552;vana;Wanne;f;;czech;f;vhs;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+553;dovolená;Urlaub;f;;czech;f;vhs;Nomen;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+554;tvarohový;Topfen…;;;czech;;vhs;Adjektiv;;Restaurant;Essen;;;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+555;špatně;schlecht {adverb};;;czech;;vhs;Adverb;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0
+556;št’astny;glücklich;;;czech;;vhs;Adjektiv;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+557;velmi;sehr;;;czech;;vhs;Adjektiv;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+558;volno;frei {adverb};;;czech;;vhs;Adverb;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0
+559;vysvětlovat;aufklären;;;czech;;vhs;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+560;vzpomínám na;denken an, erinnern an;;;czech;;vhs;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+561;cestovat;reisen;-ju;;czech;;vhs;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+562;hrát;spielen;hraju;;czech;;vhs;Verb;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+563;lyžovat;skifahren;;;czech;;vhs;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+564;přijedu;ich komme (gefahren);;;czech;;vhs;Verb;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+565;odjedu;ich fahre weg / ab;;;czech;;vhs;Verb;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+566;přijdu;ich komme (gehen);;;czech;;vhs;Verb;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+567;odejdu;ich gehe weg;;;czech;;vhs;Verb;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+568;odpočívat;Sich ausruhen;-am;;czech;;vhs;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+569;řikat;sagen;-am;;czech;;vhs;Verb;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+570;snídat;frühstücken;-am;;czech;;vhs;Verb;Alltag;Essen;;;;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+571;obědvat;mittagessen;-am;;czech;;vhs;Verb;Alltag;Essen;;;;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+572;večeřet;abendessen;-am;;czech;;vhs;Verb;Alltag;Essen;;;;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+573;uklízet;saubermachen;-im;;czech;;vhs;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+574;tancovat;tanzen;-ju;;czech;;vhs;Verb;;;;;notag;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+575;vstávat;aufstehen;-ju;;czech;;vhs;Verb;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+576;vzpomìnat si;erinnern, zurückdenken;-ám;;czech;;vhs;Verb;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+577;odpovídat;antworten;-ám;;czech;;vhs;Verb;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+578;vystupovat;auftreten;-ju;;czech;;vhs;Verb;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+579;obléct se;sich anziehen;;;czech;;vhs;Verb;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0
+580;pozdně;spät;;adverb;czech;;vhs;Adverb;Alltag;;;;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0
+581;bolet;wehtun;-ím;;czech;;misc;Verb;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+582;adresa;Adresse;f;;czech;f;Unit 5;Nomen;Restaurant;Hotel;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+583;aperitiv;Aperitiv;m;;czech;m;Unit 5;Nomen;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+584;biftek;Steak;m;;czech;m;Unit 5;Nomen;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+585;datum;Datum;n;;czech;n;Unit 5;Nomen;;Hotel;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+586;formluář;Formular;m;;czech;m;Unit 5;Nomen;;Hotel;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+587;jméno;Name;n;;czech;n;Unit 5;Nomen;Restaurant;Hotel;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+588;klíč;Schlüssel;m;;czech;m;Unit 5;Nomen;;Hotel;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+589;hlad;Hunger;m;;czech;m;Unit 5;Nomen;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+590;podpis;Unterschrift;m;;czech;m;Unit 5;Nomen;;Hotel;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+591;příjmení;Nachname;n;;czech;n;Unit 5;Nomen;;Hotel;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+592;recepční;Rezeptionist(in);m;;czech;m;Unit 5;Nomen;;Hotel;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+593;spropítné;Trinkgeld;n;;czech;n;Unit 5;Nomen;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+594;žízeň;Durst;f;;czech;f;Unit 5;Nomen;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+595;džiny;Jeans;pl;;czech;;Unit 5;Nomen;Kleidung;;;;;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+596;cvičit;üben;;;czech;;Unit 5;Verb;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+597;divit se;sich wundern;;;czech;;Unit 5;Verb;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+598;hádat se;raten;;;czech;;Unit 5;Verb;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+599;ochutnat;kosten, probieren;;;czech;;Unit 5;Verb;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+600;Je to v pořadku;Das ist alles richtig;;;czech;;Unit 5;Phrase;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+601;nechat si;sich behalten;;;czech;;Unit 5;Verb;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+602;objenat;bestellen;;;czech;;Unit 5;Verb;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+603;odcházet;verlassen;;;czech;;Unit 5;Verb;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+604;přinášet;bringen servieren;;;czech;;Unit 5;Verb;Restaurant;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+605;sportovat;sporteln;-ju;;czech;;Unit 5;Verb;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+606;věřit;glauben;-ím;;czech;;Unit 5;Verb;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+607;vracet se;zurückkehren;;;czech;;Unit 5;Verb;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+608;vlastně;eigentlich;;;czech;;vhs;Adverb;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0
+609;socha;Statue;f;;czech;;Unit 6;Nomen;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+610;místnost;Raum, Halle;f;;czech;;Unit 6;Nomen;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+611;odpověd’;Antwort;f;;czech;;Unit 6;Nomen;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+612;ředitelka;Direktorin;f;;czech;;Unit 6;Nomen;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+613;ředitel;Direktor;m;;czech;;Unit 6;Nomen;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+614;zkoušká;Prüfung;f;;czech;;Unit 6;Nomen;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+615;cesta;Weg;f;;czech;;Unit 6;Nomen;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+616;hloupý;dumm;;;czech;;Unit 6;Adjektiv;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+617;všímat si;beachten, wahrnehmen;-am;;czech;;Unit 6;Verb;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+618;účastnit se;teilnehmen;;;czech;;Unit 6;Verb;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+619;chyba;Fehler;f;;czech;;Unit 6;Nomen;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0

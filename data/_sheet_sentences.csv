@@ -1,0 +1,69 @@
+composite_key;id;word;no;german;czech
+10379;379;lednička;1;Ich habe einen neuen Kühlschrank gekauft.;Koupil jsem novou ledničku.
+20379;379;lednička;2;Die Tür des Kühlschranks ist offen.;Dveře ledničky jsou otevřené.
+30379;379;lednička;3;Im Kühlschrank ist nichts.;V ledničce nic není.
+40379;379;lednička;4;Ich bin mit dem alten Kühlschrank unzufrieden.;Jsem nespokojený se starou ledničkou.
+10382;382;kuchyně;1;Ich sehe die neue Küche.;Vidím novou kuchyň.
+20382;382;kuchyně;2;Die Tür der Küche ist offen.;Dveře kuchyně jsou otevřené.
+30382;382;kuchyně;3;In der Küche riecht es gut.;V kuchyni voní dobře.
+40382;382;kuchyně;4;Ich koche mit der modernen Küche.;Vařím s moderní kuchyní.
+10383;383;koupelna;1;Ich putze die Badezimmer.;Uklízím koupelnu.
+20383;383;koupelna;2;Die Tür der Badezimmer ist geschlossen.;Dveře koupelny jsou zavřené.
+30383;383;koupelna;3;Im Badezimmer ist ein Spiegel.;V koupelně je zrcadlo.
+40383;383;koupelna;4;Ich entspanne mich mit heißem Wasser in der Badezimmer.;Relaxuji si s teplou vodou v koupelně.
+10458;458;myčka;1;Ich kaufe eine neue Spülmaschine.;Kupuji novou myčku.
+20458;458;myčka;2;Die Tür der Spülmaschine ist offen.;Dveře myčky jsou otevřené.
+30458;458;myčka;3;In der Spülmaschine sind schmutzige Teller.;V myčce jsou špinavé talíře.
+40458;458;myčka;4;Ich spüle mit der Spülmaschine.;Mývám nádobí myčkou.
+10387;387;zahrada;1;Ich sehe den schönen Garten.;Vidím krásnou zahradu.
+20387;387;zahrada;2;Die Blumen des Gartens blühen.;Květiny zahrady kvetou.
+30387;387;zahrada;3;Im Garten spiele ich mit den Kindern.;V zahradě si hraji s dětmi.
+40387;387;zahrada;4;Ich arbeite mit dem Rasenmäher im Garten.;Pracuji se sekačkou v zahradě.
+10406;406;sprcha;1;Ich nehme eine warme Dusche.;Beru jednu teplou sprchu.
+20406;406;sprcha;2;Die Tür der Dusche ist aus Glas.;Dveře sprchy jsou ze skla.
+30406;406;sprcha;3;In der Dusche singe ich gern.;V sprše rád zpívám.
+40406;406;sprcha;4;Ich wasche mich mit der Dusche.;Myju se se sprchou.
+10077;77;pokoj;1;Ich sehe den großen Raum.;Vidím velký pokoj.
+20077;77;pokoj;2;Die Fenster des Zimmers sind offen.;Okna pokoje jsou otevřená.
+30077;77;pokoj;3;Im Zimmer ist es sehr ruhig.;V pokoji je velmi klidno.
+40077;77;pokoj;4;Ich arbeite mit dem Computer im Zimmer.;Pracuji na počítači v pokoji.
+10405;405;zrcadlo;1;Ich habe ein neues Spiegel gekauft.;Koupil jsem nové zrcadlo.
+20405;405;zrcadlo;2;Der Rahmen des Spiegels ist alt.;Rám zrcadla je starý.
+30405;405;zrcadlo;3;Hinter dem Spiegel ist eine Wand.;Za zrcadlem je zeď.
+40405;405;zrcadlo;4;Ich putze mit einem Tuch das Spiegel.;Mytí zrcadlem hadříkem
+10001;1;být;1;Ich bin müde.;Jsem unavený.
+20001;1;být;2;Du bist sehr nett.;Jsi velmi milý.
+30001;1;být;3;Er war gestern zu Hause.;Byl včera doma.
+40001;1;být;4;Wir waren im Kino.;Byli jsme v kině.
+10029;29;mít;1;Ich habe viele Bücher.;Mám hodně knih.
+20029;29;mít;2;Ihr habt einen Hund.;Máte psa.
+30029;29;mít;3;Er hatte gestern Geburtstag.;Měl včera narozeniny.
+40029;29;mít;4;Wir hatten keine Zeit.;Neměli jsme čas.
+10032;32;stát;1;Ich stehe vor dem Haus.;Stojím před domem.
+20032;32;stát;2;Wie viel kostet das?;Kolik to stojí?
+30032;32;stát;3;Das Auto stand vor dem Hotel.;Auto stálo před hotelem.
+40032;32;stát;4;Wir standen lange in der Schlange.;Stáli jsme dlouho ve frontě.
+10030;30;líbit se;1;Mir gefällt dieser Film.;Ten film se mi líbí.
+20030;30;líbit se;2;Gefällt euch das neue Zimmer?;Líbí se vám ten nový pokoj?
+30030;30;líbit se;3;Ihm gefiel das Konzert nicht.;Jemu se ten koncert nelíbil.
+40030;30;líbit se;4;Uns gefielen die Bilder.;Obrázky se nám líbily.
+10229;229;ptát se;1;Ich frage den Lehrer.;Ptám se učitele.
+20229;229;ptát se;2;Fragst du oft nach dem Weg?;Ptáš se často na cestu?
+30229;229;ptát se;3;Er fragte nach der Adresse.;Ptal se na adresu.
+40229;229;ptát se;4;Wir haben nach dem Preis gefragt.;Ptali jsme se na cenu.
+10236;236;bydlet;1;Ich wohne in Prag.;Bydlím v Praze.
+20236;236;bydlet;2;Wo wohnt ihr?;Kde bydlíte?
+30236;236;bydlet;3;Sie wohnte früher in Brünn.;Dříve bydlela v Brně.
+40236;236;bydlet;4;Wir haben in einer kleinen Wohnung gewohnt.;Bydleli jsme v malém bytě.
+10263;263;chtít;1;Ich will einen Kaffee.;Chci kávu.
+20263;263;chtít;2;Wollt ihr ins Kino gehen?;Chcete jít do kina?
+30263;263;chtít;3;Er wollte ein neues Auto.;Chtěl nové auto.
+40263;263;chtít;4;Wir wollten dort nicht bleiben.;Nechtěli jsme tam zůstat.
+10544;544;moct;1;Ich kann dir helfen.;Můžu ti pomoct.
+20544;544;moct;2;Kannst du das wiederholen?;Můžeš to zopakovat?
+30544;544;moct;3;Er konnte nicht kommen.;Nemohl přijít.
+40544;544;moct;4;Wir konnten gestern nichts machen.;Včera jsme nemohli nic dělat.
+10562;562;hrát;1;Ich spiele Gitarre.;Hraju na kytaru.
+20562;562;hrát;2;Spielt ihr Fußball?;Hrajete fotbal?
+30562;562;hrát;3;Er spielte gestern Schach.;Včera hrál šachy.
+40562;562;hrát;4;Wir spielten Karten den ganzen Abend.;Celý večer jsme hráli karty.

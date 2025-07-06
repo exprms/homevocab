@@ -12,8 +12,6 @@ from dotenv import load_dotenv
 import argparse
 import util.custom_logger as cl
 
-
-
 def convert_ods_to_csv(
         input_file: str, 
         output_file: str, 
@@ -64,7 +62,7 @@ if __name__ == "__main__":
     
     # Example usage
     input_file = os.getenv('ODS_SOURCE')
-    output_file = os.getenv('CSV_PREFIX') + '_sheet_' + args.sheetname + '.csv'
+    output_file = 'data/_sheet_' + args.sheetname + '.csv'
     check_col = args.chk
     
     convert_ods_to_csv(

@@ -1,0 +1,46 @@
+id;nominative.s;nominative.p;genitive.s;genitive.p;datriv.s;datriv.p;accusative.s;accusative.p;vocative.s;vocative.p;locative.s;locative.p;instrumental.s;instrumental.p
+56;auto;auta;auta;aut;a autům;auto;auta;auto;auta;autu;autách;autem;auty;
+69;koberec;koberece;koberece;koberce;kobercům;koberec;koberce;koberci;koberce;koberci;kobercích;koberce;kobercem;kobercích
+77;pokoj;pokoje;pokoje;pokojů;pokoji;pokojům;pokoj;pokoje;pokoji;pokoje;pokoji;pokojích;pokojem;pokoji
+79;rádio;rádia;rádia;;rádia;rádiím;rádio;rádia;rádio;rádia;rádiu;rádiích;rádiem;rádii
+81;skřiň;skříně;skříně;skříní;skříni;skříním;skříň;skříně;skříni;skříně;skříni;skříních;skříní;skříně
+87;televize;televize;televize;televizí;televizi;televizím;televizi;televize;televize;televize;televizi;televizích;televizí;televizemi
+94;židle;židle;židle;židlí;židli;židlím;židli;židle;židle;židle;židli;židlích;židlí;židlemi
+159;stůl;stoly;stolu;stolů;stolu;stolům;stůl;stoly;stole;stoly;stole;stolech;stolem;stoly
+379;lednička;ledničky;ledničky;ledniček;ledničce;ledničkám;ledničku;ledničky;ledničko;ledničky;ledničce;ledničkách;ledničkou;ledničkami
+380;dveře;;;;;;;;;;;;;
+381;sklep;sklepy;sklepu;sklepů;sklepu;sklepům;sklep;sklepy;sklepe;sklepy;sklepě;sklepech;sklepem;sklepy
+382;kuchyně;kuchyně;kuchyně;kuchyní;kuchyni;kuchyním;kuchyni;kuchyně;kuchyně;kuchyně;kuchyni;kuchyních;kuchyní;kuchyněmi
+383;koupelna;koupelny;koupelny;koupelen;koupelně;koupelnám;koupelnu;koupelny;koupelno;koupelny;koupelně;koupelnách;koupelnou;koupelnami
+384;záchod;záchody;záchodu;záchodů;záchodu;záchodům;záchod;záchody;záchode;záchody;záchodě;záchodech;záchodem;záchody
+385;schodiště;schodiště;schodiště;schodišť;schodišti;schodištím;schodiště;schodiště;schodiště;schodiště;schodišti;schodištích;schodištěm;schodišti
+386;terasa;terasy;terasy;teras;terase;terasám;terasu;terasy;teraso;terasy;terase;terasách;terasou;terasami
+387;zahrada;zahrady;zahrady;zahrad;zahradě;zahradám;zahradu;zahrady;zahrado;zahrady;zahradě;zahradách;zahradou;zahradami
+388;počítač;počítače;počítače;počítačů;počítači;počítačům;počítač;počítače;počítači;počítače;počítači;počítačích;počítačem;počítači
+389;hrnec;hrnce;hrnce;hrnců;hrnci;hrncům;hrnec;hrnce;hrnci;hrnce;hrnci;hrncích;hrncem;hrnci
+390;nůž;nože;nože;nožů;noži;nožům;nůž;nože;noži;nože;noži;nožích;nožem;noži
+391;vidlička;vidličky;vidličky;vidliček;vidličce;vidličkám;vidličku;vidličky;vidličko;vidličky;vidličce;vidličkách;vidličkou;vidličkami
+392;lžíce;lžíce;lžíce;lžic;lžíci;lžicím;lžíci;lžíce;lžíci;lžíce;lžíci;lžicích;lžící;lžícemi
+393;talíř;talíře;talíře;talířů;talíři;talířům;talíř;talíře;talíři;talíře;talíři;talířích;talířem;talíři
+394;sklenice;sklenice;sklenice;sklenic;sklenici;sklenicím;sklenici;sklenice;sklenice;sklenice;sklenici;sklenicích;sklenicí;sklenicemi
+395;závěs;závesy;závěsu;závěsů;závěsu;závěsům;záves;závesy;záves;závesy;závěsu;závěsech;závěsem;závěsy
+396;plakát;plakáty;plakátu;plakátů;plakátu;plakátům;plakát;plakáty;plakáte;plakáty;plakátu;plakátech;plakátem;plakáty
+403;rostlina;rostliny;rostliny;rostlin;rostlině;rostlinám;rostlinu;rostliny;rostlino;rostliny;rostlině;rostlinách;rostlinou;rostlinami
+404;gauč;gauče;gauče;gaučů;gauči;gaučům;gauč;gauče;gauči;gauče;gauči;gaučích;gaučem;gauči
+405;zrcadlo;zrcadla;zrcadla;zrcadel;zrcadlu;zrcadlům;zrcadlo;zrcadla;zrcadlo;zrcadla;zrcadle;zrcadlech;zrcadlem;zrcadly
+406;sprcha;sprchy;sprchy;sprch;sprše;sprchám;sprchu;sprchy;sprcho;sprchy;sprše;sprchách;sprchou;sprchami
+407;pračka;pračky;pračky;praček;pračce;pračkám;pračku;pračky;pračko;pračky;pračce;pračkách;pračkou;pračkami
+408;myčka nádobí;myčky nádobí;myčky nádobí;myček nádobí;myčce nádobí;myčkám nádobí;myčku nádobí;myčky nádobí;myčko nádobí;myčky nádobí;myčce nádobí;myčkách nádobí;myčkou nádobím;myčkami nádobím
+409;sporák;sporáky;sporáku;sporáků;sporáku;sporákům;sporák;sporáky;sporáku;sporáky;sporáku;sporácích;sporákem;sporáky
+410;sušička;sušičky;sušičky;sušiček;sušičce;sušičkám;sušičku;sušičky;sušičko;sušičky;sušičce;sušičkách;sušičkou;sušičkami
+457;okno;okna;okna;oken;oknu;oknům;okno;okna;okno;okna;okně;oknech;oknem;okny
+458;myčka;myčky;myčky;myček;myčce;myčkám;myčku;myčky;myčko;myčky;myčce;myčkách;myčkou;myčkami
+459;poklice;poklice;poklice;poklic;poklici;poklicím;poklici;poklice;poklice;poklice;poklici;poklicích;poklicí;poklicemi
+460;pánev;pánve;pánve;pánví;pánvi;pánvím;pánev;pánve;pánve;pánve;pánvi;pánvích;pánví;pánvemi
+461;rychlovarná konvice;;;;;;;;;;;;;
+462;mísa;mísy;mísy;mís;míse;mísám;mísu;mísy;míso;mísy;míse;mísách;mísou;mísami
+463;kelímek;kelímky;kelímku;kelímků;kelímku;kelímkům;kelímek;kelímky;kelímku;kelímky;kelímku;kelímcích;kelímkem;kelímky
+464;konvice;konvice;konvice;konvic;konvici;konvicím;konvici;konvice;konvice;konvice;konvici;konvicích;konvicí;konvicemi
+465;konvice na mléko;;;;;;;;;;;;;
+466;nádobí;nádobí;nádobí;nádobí;nádobí;nádobí;nádobí;nádobí;nádobí;nádobí;nádobí;nádobí;nádobím;nádobím
+467;příbor;příbory;příboru;příborů;příboru;příborům;příbor;příbory;příbore;příbory;příboru;příborech;příborem;příbory

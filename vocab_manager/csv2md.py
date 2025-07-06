@@ -69,7 +69,14 @@ def dataframe_to_markdown(df: pd.DataFrame, header: str, column_map: dict):
     return markdown_content
 
 
-def main(csv_file_path: str, dest_path: str, md_file_prefix: str, column_map: dict, sortby: str, tagging: MDTag):
+def main(
+        csv_file_path: str, 
+        dest_path: str, 
+        md_file_prefix: str, 
+        column_map: dict, 
+        sortby: str, 
+        tagging: MDTag
+        ):
     
     try:
         
@@ -147,7 +154,7 @@ if __name__ == '__main__':
             csv_file=cf.used_conf.csv_path, 
             prefix=cf.used_conf.tag_prefix
             )
-        print(all_tags)
+        # print(all_tags)
         cl.logger.info(f"TAGS in CSV: {all_tags}")
         
 
