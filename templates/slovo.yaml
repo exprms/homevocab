@@ -1,0 +1,25 @@
+wort:
+  sprache_a: pomoc
+  sprache_b: Hilfe
+  beispiel: Pomáhám kamarádovi když potřebuje pomoc.
+art: 
+  bezeichnung: substantiv
+  gender: f
+
+grammatik:
+  singular:
+    nominativ: pomoc
+    genitiv: pomoci
+    dativ: pomoci
+    akkusativ: pomoc
+    vokativ: pomoci
+    lokativ: pomoci
+    instrumental: pomocí
+  plural:
+    nominativ: pomoci
+    genitiv: pomocí
+    dativ: pomocem
+    akkusativ: pomoci
+    vokativ: pomoci
+    lokativ: pomocích
+    instrumental: pomocemi
